@@ -5,6 +5,7 @@ header {
 }
 header h5 {
   font-size: 2rem;
+  color: var(--color-light);
 }
 
 .header__container {
