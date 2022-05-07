@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 
-import ME from "../../assets/me.png";
+import ME from "../../assets/p6.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -36,7 +36,7 @@ function About() {
             </article>
           </div>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
+            I'm Cheikhsaadbouh EtfaghaOubeid Fullstack Web Developer and Mobile Developer passionate about technology and learning.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

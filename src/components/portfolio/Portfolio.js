@@ -4,7 +4,7 @@ import IMG2 from "../../assets/M2.png";
 import IMG3 from "../../assets/M3.png";
 import IMG4 from "../../assets/M4.png";
 import IMG5 from "../../assets/M5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/portfolio6.png";
 
 const data = [
   {
@@ -45,7 +45,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Title of project",
+    title: "Akarina",
     github: "https://github.com",
     demo: "#",
   },
